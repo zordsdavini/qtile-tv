@@ -1,3 +1,5 @@
+![logo](https://github.com/zordsdavini/qtile-tv/raw/master/logo/qtile_tv-logo.png)
+
 # qtile-tv
 Various files for https://lbry.tv/@qtile-tv
 
@@ -13,8 +15,8 @@ tried many of known ones. Also I see few of videos about this amazing tiling win
 
 ## Link
 - http://www.qtile.org/
-- https://github.com/qtile/qtile/issues
-- http://docs.qtile.org/en/latest/manual/hacking.html
+- https://github.com/qtile/qtile/
+- http://docs.qtile.org/en/latest/
 - irc://irc.oftc.net/#qtile
 - mailto://qtile-dev@googlegroups.com
 
