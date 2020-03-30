@@ -1,4 +1,4 @@
-![logo](https://github.com/zordsdavini/qtile-tv/raw/master/logo/qtile_tv-logo.png)
+![logo](https://github.com/zordsdavini/qtile-tv/raw/master/logo/qtile_tv-logo-mini.png)
 
 # qtile-tv
 Various files for https://lbry.tv/@qtile-tv
